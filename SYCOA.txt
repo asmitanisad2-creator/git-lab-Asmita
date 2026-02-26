@@ -1,0 +1,3 @@
+My first line in git.
+Adding 2nd line in my file.
+Adding 3rd line in my file.
