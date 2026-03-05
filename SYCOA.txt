@@ -5,3 +5,7 @@ adding 4th line.
 adding 5th lint in my file
 end of file
 hello git bash
+We are Adding new line for feature branch.
+Adding next line for feature branch.
+adding next 2nd line.
+adding next 3rd line.
